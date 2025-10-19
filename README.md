@@ -10,4 +10,5 @@ You need a working setup of [matugen](https://github.com/InioX/matugen) to make 
   input_path = <path/to/template>
   output_path = <path/to/snippet folder>
   ```
+- Run matugen once.
 - Activate the snippet created inside obsidian settings.
