@@ -4,5 +4,10 @@ You need a working setup of [matugen](https://github.com/InioX/matugen) to make 
 
 ## How to use
 - Add the .css file to matugen's templates directory.
-- Add the content of config.txt to matugen configs with the correct paths.
+- Add the this to matugen configs with the correct paths.
+  ```
+  [templates.Obsidian]
+  input_path = <path/to/template>
+  output_path = <path/to/snippet folder>
+  ```
 - Activate the snippet created inside obsidian settings.
